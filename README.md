@@ -1,9 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Nischith C</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischithrac&label=Profile%20views&color=0e75b6&style=flat" alt="nischithrac" /> </p>
 
-- 🌱 I’m currently learning **#java full stack developer**
+- 🌱 I’m currently learning **#java full stack **
 
 - 📫 How to reach me **nischithrac@gmail.com**
 
